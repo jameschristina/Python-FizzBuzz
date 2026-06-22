@@ -18,18 +18,18 @@ Python is used in this project with loops, and conditionals to create FizzBuzz. 
 
 <p align="center">
 <br/>
-<img width="1007" height="667" alt="1" src="https://github.com/user-attachments/assets/19a80adc-394e-4ec7-be97-e55641bd3a63" />
+<img width="80%" height="80%" alt="" src="https://github.com/user-attachments/assets/19a80adc-394e-4ec7-be97-e55641bd3a63" />
 
 <br />
 <br />
 <br/>
-<img width="1207" height="727" alt="2" src="https://github.com/user-attachments/assets/0ef33e82-f36b-4169-8759-8dd9f255bb7f" />
+<img width="80%" height="80%" alt="" src="https://github.com/user-attachments/assets/0ef33e82-f36b-4169-8759-8dd9f255bb7f" />
 
 
 
 <br />
 <br/>
-<img width="1208" height="686" alt="3" src="https://github.com/user-attachments/assets/33e250b7-d72b-43ec-bb0a-566e7a1f3196" />
+<img width="80%" height="80%" alt="" src="https://github.com/user-attachments/assets/33e250b7-d72b-43ec-bb0a-566e7a1f3196" />
 
 <br />
 
